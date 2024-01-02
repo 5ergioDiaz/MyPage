@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d59c6af1.css",
+    "main.js": "/static/js/main.a5b36ab9.js",
+    "static/media/Poppins-LightItalic.ttf": "/static/media/Poppins-LightItalic.4a7d59f898225cc2f2e7.ttf",
+    "static/media/memoji_square.png": "/static/media/memoji_square.e72a7b550cad5eb9adc3.png",
+    "static/media/Poppins-Italic.ttf": "/static/media/Poppins-Italic.e373f6163127e2d469af.ttf",
+    "static/media/Poppins-BoldItalic.ttf": "/static/media/Poppins-BoldItalic.cfb635a5111b545f5598.ttf",
+    "static/media/Poppins-BlackItalic.ttf": "/static/media/Poppins-BlackItalic.563eda3d3407af0fb581.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/Poppins-Black.ttf": "/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
+    "static/media/MiCompa.png": "/static/media/MiCompa.7ebe0051797188603fd3.png",
+    "static/media/Hatch.png": "/static/media/Hatch.558efeb031d28506a9a2.png",
+    "static/media/MobTK.png": "/static/media/MobTK.0e93d7cceb7c66fe7247.png",
+    "static/media/UDC.png": "/static/media/UDC.a63dc9d8224a8b8cc30a.png",
+    "static/media/Kioscomatico.png": "/static/media/Kioscomatico.f3b6da4870266b80aed0.png",
+    "index.html": "/index.html",
+    "main.d59c6af1.css.map": "/static/css/main.d59c6af1.css.map",
+    "main.a5b36ab9.js.map": "/static/js/main.a5b36ab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d59c6af1.css",
+    "static/js/main.a5b36ab9.js"
+  ]
+}
